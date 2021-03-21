@@ -1,0 +1,44 @@
+.card {
+  background: white;
+  display: inline-block;
+  margin: auto;
+  height: 140px;
+   width: 90px;
+ border-radius: 7%;
+ margin-left: 5%;
+ margin-top: 5%;
+ position: relative;
+}
+ 
+ .sort {
+  background: white;
+  display: inline-block;
+  margin: auto;
+  height: 140px;
+  width: 90px;
+ border-radius: 7%;
+ margin-left: 5%;
+ margin-top: 5%;
+ position: relative;
+}
+
+ .container1 {
+ margin-top: 10%;
+}
+
+body{
+  background:  rgba(12,148,130,0.865983893557423)
+}
+
+.downCard {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.downCard1 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 10px;
+}
